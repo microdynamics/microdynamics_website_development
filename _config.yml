@@ -3,18 +3,18 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle:
-description:
-author: John Doe
-language:
+title: Home | Team MicroDynamics
+subtitle: Home | Team MicroDynamics
+description: "This is Team MicroDynamics website, which uses the hexo system to build. Enter the following URL to access: https://microDynamics.github.io"
+author: Team MicroDynamics
+language: zh-CN
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: https://microdynamics.github.io
 root: /
-permalink: :year/:month/:day/:title/
+permalink: wiki/:title/
 permalink_defaults:
 
 # Directory
@@ -26,6 +26,8 @@ category_dir: categories
 code_dir: downloads/code
 i18n_dir: :lang
 skip_render:
+  - README.md
+  - '_posts/**/embed_page/**'
 
 # Writing
 new_post_name: :title.md # File name of new posts
@@ -71,10 +73,42 @@ pagination_dir: page
 
 # Extensions
 ## Plugins: https://hexo.io/plugins/
+### hexo-renderer-marked
+marked:
+  gfm: true
+### hexo-generator-json-content
+jsonContent:
+  meta: false
+  pages:
+    title: true
+    date: true
+    path: true
+    text: true
+  posts:
+    title: true
+    date: true
+    path: true
+    text: true
+    tags: true
+    categories: true
+  ignore:
+    - 404.html
+### hexo-generator-sitemap
+sitemap:
+  path: sitemap.xml
+### hexo-autonofollow
+### Adds nofollow attribute to all external links in your hexo blog posts automatically.
+nofollow:
+  enable: true
+  exclude:
+    - microdynamics.github.io
+
 ## Themes: https://hexo.io/themes/
 theme: Wikitten
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type:
+  type: git
+  repo: git@github.com:microdynamics/microdynamics.github.io.git
+  branch: master

@@ -104,7 +104,8 @@ nofollow:
     - microdynamics.github.io
 
 ## Themes: https://hexo.io/themes/
-theme: Wikitten
+#  theme: Wikitten
+theme: microdynamics_website_theme
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html

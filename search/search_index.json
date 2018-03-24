@@ -1,0 +1,284 @@
+{
+    "docs": [
+        {
+            "location": "/",
+            "text": "Welcome to Mk\n\u00b6\n\n\nFor full documentation visit \nmkdocs.org\n.\n\n\n\u6807\u9898\n\u00b6\n\n\n\u7b2c\u4e09\u7ea7\n\u00b6\n\n\n\u7b2c\u56db\u7ea7\n\u00b6\n\n\n\u7b2c\u4e94\u7ea7\n\u00b6\n\n\n\u7b2c\u516d\u7ea7\n\u00b6\n\n\n\u5c0f\u6807\u9898 \nwith secondary text\n\u00b6\n\n\nThe 3\nrd\n level \nwith secondary text\n\u00b6\n\n\nThe 4\nth\n level \nwith secondary text\n\u00b6\n\n\nThe 5\nth\n level \nwith secondary text\n\u00b6\n\n\nThe 6\nth\n level \nwith secondary text\n\u00b6\n\n\n\u5f15\u5165\n\u00b6\n\n\n\n\n\u6211\u8bb0\u5f97\u81ea\u5df1\u7b2c\u4e00\u6b21\u63a5\u89e6\u56db\u8f74\u98de\u884c\u5668\u662f\u5728\u5927\u4e00\uff0c\u6709\u4e00\u6b21\u6211\u5728\nTED\n\u4e0a\u770b\u4e86\u7531\u745e\u58eb\u82cf\u9ece\u4e16\u8054\u90a6\u7406\u5de5\u5927\u5b66\u7684Raffaello D'Andrea\u6559\u6388\u6240\u505a\u7684\u5173\u4e8e\u56db\u8f74\u98de\u884c\u5668\u7684\u6f14\u8bb2\uff0c\u9898\u76ee\u662f**\"The astounding athletic power of quadcopters\"**\uff0c\u6559\u6388\u8fb9\u7528\u56db\u8f74\u98de\u884c\u5668\u8fdb\u884c\u6f14\u793a\u5e76\u5bf9\u5176\u4e2d\u6240\u7528\u5230\u7684\u6570\u5b66\u7406\u8bba\u8fdb\u884c\u8bb2\u89e3\uff0c\u5bf9\u4e8e\u5f53\u65f6\u4ec0\u4e48\u7406\u8bba\u90fd\u4e0d\u61c2\u7684\u6211\u6765\u8bf4\uff0c\u6700\u4ee4\u6211\u60ca\u8bb6\u7684\u662f\u5728\u6f14\u793a\u73af\u8282\uff0c\u90a3\u4e9b\u56db\u8f74\u98de\u884c\u5668\u80fd\u591f\u5728\u9ad8\u901f\u79fb\u52a8\u7684\u65f6\u5019\u4fdd\u8bc1\u653e\u5728\u5176\u9876\u90e8\u7684\u7ec6\u68cd\u548c\u9152\u676f\u4e0d\u5931\u53bb\u5e73\u8861\uff0c\u53ef\u4ee5\u5728\u6868\u53f6\u53d7\u635f\u7684\u60c5\u51b5\u4e0b\u4f9d\u7136\u53ef\u63a7\uff0c\u53ef\u4ee5\u901a\u8fc7\u534f\u4f5c\u63a5\u4f4f\u7531\u4eba\u6240\u629b\u51fa\u7684\u5c0f\u7403\u5e76\u5c06\u5176\u51fb\u56de\uff0c\u53ef\u4ee5\u5224\u65ad\u4eba\u7684\u624b\u52bf\u6765\u505a\u4e0d\u540c\u7684\u52a8\u4f5c\u7b49\u3002\u5f53\u65f6\u770b\u5b8c\u8fd9\u6bb5\u89c6\u9891\u4e4b\u540e\u6211\u7684\u5185\u5fc3\u96be\u4ee5\u5e73\u9759\uff0c\u8111\u6d77\u91cc\u840c\u751f\u4e86\u81ea\u5236\u56db\u8f74\u98de\u884c\u5668\u7684\u60f3\u6cd5\uff0c\u4f46\u7531\u4e8e\u540e\u6765\u6211\u52a0\u5165\u4e86\u821e\u8e48\u673a\u5668\u4eba\u57fa\u5730\u5e76\u5fd9\u4e8e\u7ec4\u5185\u7684\u5f00\u53d1\u4efb\u52a1\uff0c\u6240\u4ee5\u8fd9\u4e2a\u60f3\u6cd5\u5c31\u6682\u65f6\u88ab\u6401\u7f6e\u4e86\u3002\n\n\n\n\n\u4ee3\u7801\n\u00b6\n\n\n\u884c\u5185\u4ee3\u7801\n\u00b6\n\n\nMorbi eget \ntest\n. Vivamus \nvenenatis porttitor\n tortor sit amet\nrutrum. Class aptent taciti sociosqu ad litora torquent per conubia nostra,\nper inceptos himenaeos. \nPellentesque aliquet quam enim\n, eu volutpat urna\nrutrum a.\n\n\nNam vehicula nunc \nreturn\n \ntarget\n mauris, a ultricies libero efficitur\nsed. Sed molestie imperdiet consectetur. Vivamus a pharetra leo. Pellentesque\neget ornare tellus, ut gravida mi. Fusce vel lacinia lacus.\n\n\n1\nimport\n \ntensorflow\n \nas\n \ntf\n\n\n\n\n\n\n\n1\n2\n3\n4\n5\n6\n\"\"\" Bubble sort \"\"\"\n\n\ndef\n \nbubble_sort\n(\nitems\n):\n\n\n    \nfor\n \ni\n \nin\n \nrange\n(\nlen\n(\nitems\n)):\n\n\n        \nfor\n \nj\n \nin\n \nrange\n(\nlen\n(\nitems\n)\n \n-\n \n1\n \n-\n \ni\n):\n\n\n            \nif\n \nitems\n[\nj\n]\n \n>\n \nitems\n[\nj\n \n+\n \n1\n]:\n\n                \nitems\n[\nj\n],\n \nitems\n[\nj\n \n+\n \n1\n]\n \n=\n \nitems\n[\nj\n \n+\n \n1\n],\n \nitems\n[\nj\n]\n\n\n\n\n\n\n\nLatex\u516c\u5f0f\n\u00b6\n\n\n\\phi\n\\phi\n\uff0cLorem ipsum dolor sit amet: \np(x|y) = \\frac{p(y|x)p(x)}{p(y)}\np(x|y) = \\frac{p(y|x)p(x)}{p(y)}\n\n$$\n\\frac{n!}{k!(n-k)!} = \\binom{n}{k}\n$$\n\n\n\u6587\u5b57\u6807\u6ce8\u4f18\u5316\n\u00b6\n\n\ninserted text\n\n\ntest\n\n\ntest\n\n\n\u811a\u6ce8\n\u00b6\n\n\nLorem ipsum\n1\n dolor sit amet, consectetur adipiscing elit.\n2\n\n\n\u63d2\u5165\u94fe\u63a5\u548c\u56fe\u7247\n\u00b6\n\n\nmaksyuki\n\n\n  \n\n\n  \n\n\n\u5782\u76f4\u7ebf\n\u00b6\n\n\n\n\n\u8868\u683c\n\u00b6\n\n\n\n\n\n\n\n\nSollicitudo / Pellentesi\n\n\nconsectetur\n\n\nadipiscing\n\n\nelit\n\n\narcu\n\n\nsed\n\n\n\n\n\n\n\n\n\n\nVivamus a pharetra\n\n\nyes\n\n\nyes\n\n\nyes\n\n\nyes\n\n\nyes\n\n\n\n\n\n\nOrnare viverra ex\n\n\nyes\n\n\nyes\n\n\nyes\n\n\nyes\n\n\nyes\n\n\n\n\n\n\nMauris a ullamcorper\n\n\nyes\n\n\nyes\n\n\npartial\n\n\nyes\n\n\nyes\n\n\n\n\n\n\nNullam urna elit\n\n\nyes\n\n\nyes\n\n\nyes\n\n\nyes\n\n\nyes\n\n\n\n\n\n\nMalesuada eget finibus\n\n\nyes\n\n\nyes\n\n\nyes\n\n\nyes\n\n\nyes\n\n\n\n\n\n\nUllamcorper\n\n\nyes\n\n\nyes\n\n\nyes\n\n\nyes\n\n\nyes\n\n\n\n\n\n\nVestibulum sodales\n\n\nyes\n\n\n-\n\n\nyes\n\n\n-\n\n\nyes\n\n\n\n\n\n\nPulvinar nisl\n\n\nyes\n\n\nyes\n\n\nyes\n\n\n-\n\n\n-\n\n\n\n\n\n\nPharetra aliquet est\n\n\nyes\n\n\nyes\n\n\nyes\n\n\nyes\n\n\nyes\n\n\n\n\n\n\nSed suscipit\n\n\nyes\n\n\nyes\n\n\nyes\n\n\nyes\n\n\nyes\n\n\n\n\n\n\nOrci non pretium\n\n\nyes\n\n\npartial\n\n\n-\n\n\n-\n\n\n-\n\n\n\n\n\n\n\n\n\u5217\u8868\n\u00b6\n\n\n\u65e0\u5e8f\u5217\u8868\n\u00b6\n\n\n\n\n\n\n\u6d4b\u8bd5a\n\n\n\n\n\u6d4b\u8bd5a\n\n\n\u6d4b\u8bd5b\n\n\n\u6d4b\u8bd5c\n\n\n\n\n\n\n\n\n\u6d4b\u8bd5a\n\n\n\n\n\n\nNulla et rhoncus turpis. Mauris ultricies elementum leo. Duis efficitur\n  accumsan nibh eu mattis. Vivamus tempus velit eros, porttitor placerat nibh\n  lacinia sed. Aenean in finibus diam.\n\n\n\n\n\n\n\u6709\u5e8f\u5217\u8868\n\u00b6\n\n\n\n\n\n\n\u6d4b\u8bd5a\n\n\n\n\n\n\n\u6d4b\u8bd5b\n\n\n\n\n\n\n\u6d4b\u8bd5a\n\n\n\n\n\u6d4b\u8bd5a\n\n\n\u6d4b\u8bd5b\n\n\n\u6d4b\u8bd5c\n\n\n\n\n\n\n\n\nMorbi eget dapibus felis. Vivamus venenatis porttitor tortor sit amet\n  rutrum. Pellentesque aliquet quam enim, eu volutpat urna rutrum a. Sed\n  aliquet, neque at rutrum mollis, neque nisi tincidunt nibh.\n\n\n\n\n\n\n\n\n\n\n\u5b9a\u4e49\u5217\u8868\n\u00b6\n\n\nLorem ipsum dolor sit amet\n\n\n:   Sed sagittis eleifend rutrum. Donec vitae suscipit est. Nullam tempus\n    tellus non sem sollicitudin, quis rutrum leo facilisis. Nulla tempor\n    lobortis orci, at elementum urna sodales vitae. In in vehicula nulla.\n\n\n1\n2\n3\nDuis mollis est eget nibh volutpat, fermentum aliquet dui mollis.\nNam vulputate tincidunt fringilla.\nNullam dignissim ultrices urna non auctor.\n\n\n\n\n\n\nCras arcu libero\n\n\n:   Aliquam metus eros, pretium sed nulla venenatis, faucibus auctor ex. Proin\n    ut eros sed sapien ullamcorper consequat. Nunc ligula ante, fringilla at\n    aliquam ac, aliquet sed mauris.\n\n\n\u4efb\u52a1\u5217\u8868\n\u00b6\n\n\n\n\n Lorem ipsum dolor sit amet, consectetur adipiscing elit\n\n\n Nulla lobortis egestas semper\n\n\n Curabitur elit nibh, euismod et ullamcorper at, iaculis feugiat est\n\n\n Vestibulum convallis sit amet nisi a tincidunt\n\n\n In hac habitasse platea dictumst\n\n\n In scelerisque nibh non dolor mollis congue sed et metus\n\n\n Sed egestas felis quis elit dapibus, ac aliquet turpis mattis\n\n\n Praesent sed risus massa\n\n\n\n\n\n\n Aenean pretium efficitur erat, donec pharetra, ligula non scelerisque\n\n\n Nulla vel eros venenatis, imperdiet enim id, faucibus nisi\n\n\n\n\n\u5f15\u5165+\u4ee3\u7801\u5757\n\u00b6\n\n\n\n\nVestibulum vitae orci quis ante viverra ultricies ut eget turpis. Sed eu\n  lectus dapibus, eleifend nulla varius, lobortis turpis. In ac hendrerit nisl,\n  sit amet laoreet nibh.\n  \n1\n2\n3\n4\n5\n6\n7\n8\n9\nvar\n \n_extends\n \n=\n \nfunction\n(\ntarget\n)\n \n{\n\n  \nfor\n \n(\nvar\n \ni\n \n=\n \n1\n;\n \ni\n \n<\n \narguments\n.\nlength\n;\n \ni\n++\n)\n \n{\n\n    \nvar\n \nsource\n \n=\n \narguments\n[\ni\n];\n\n    \nfor\n \n(\nvar\n \nkey\n \nin\n \nsource\n)\n \n{\n\n      \ntarget\n[\nkey\n]\n \n=\n \nsource\n[\nkey\n];\n\n    \n}\n\n  \n}\n\n\n  \nreturn\n \ntarget\n;\n\n\n};\n\n\n\n\n\n\n\n\nPraesent at \nreturn\n \ntarget\n, sodales nibh vel, tempor felis. Fusce\n      vel lacinia lacus. Suspendisse rhoncus nunc non nisi iaculis ultrices.\n      Donec consectetur mauris non neque imperdiet, eget volutpat libero.\n\n\n\n\n\n\n\u63d0\u793a\u5757\n\u00b6\n\n\n\n\nNote\n\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod\nnulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor\nmassa, nec semper lorem quam in massa.\n\n\n\n\n\n\nPhasellus posuere in sem ut cursus\n\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod\nnulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor\nmassa, nec semper lorem quam in massa.\n\n\n\n\n\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod\nnulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor\nmassa, nec semper lorem quam in massa.\n\n\n\n\nPhasellus posuere in sem ut cursus\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod\nnulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor\nmassa, nec semper lorem quam in massa.\n\n\nAbstract\n\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod\nnulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor\nmassa, nec semper lorem quam in massa.\n\n\n\n\n\n\nInfo\n\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod\nnulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor\nmassa, nec semper lorem quam in massa.\n\n\n\n\n\n\nTip\n\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod\nnulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor\nmassa, nec semper lorem quam in massa.\n\n\n\n\n\n\nSuccess\n\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod\nnulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor\nmassa, nec semper lorem quam in massa.\n\n\n\n\n\n\nQuestion\n\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod\nnulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor\nmassa, nec semper lorem quam in massa.\n\n\n\n\n\n\nWarning\n\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod\nnulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor\nmassa, nec semper lorem quam in massa.\n\n\n\n\n\n\nFailure\n\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod\nnulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor\nmassa, nec semper lorem quam in massa.\n\n\n\n\n\n\nDanger\n\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod\nnulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor\nmassa, nec semper lorem quam in massa.\n\n\n\n\n\n\nBug\n\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod\nnulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor\nmassa, nec semper lorem quam in massa.\n\n\n\n\n\n\nExample\n\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod\nnulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor\nmassa, nec semper lorem quam in massa.\n\n\n\n\n\n\nQuote\n\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod\nnulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor\nmassa, nec semper lorem quam in massa.\n\n\n\n\nCommands\n\u00b6\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\nProject layout\n\u00b6\n\n\n1\n2\n3\n4\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.\n\n\n\n\n\n\nProject layout\n\u00b6\n\n\n1\n2\n3\n4\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.\n\n\n\n\n\n\nProject layout\n\u00b6\n\n\n1\n2\n3\n4\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.\n\n\n\n\n\n\nProject layout\n\u00b6\n\n\n1\n2\n3\n4\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.\n\n\n\n\n\n\nProject layout\n\u00b6\n\n\n1\n2\n3\n4\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.\n\n\n\n\n\n\nProject layout\n\u00b6\n\n\n1\n2\n3\n4\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.\n\n\n\n\n\n\nProject layout\n\u00b6\n\n\n1\n2\n3\n4\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit.\u00a0\n\u21a9\n\n\n\n\n\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod\nnulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor\nmassa, nec semper lorem quam in massa.\u00a0\n\u21a9",
+            "title": "\u529f\u80fd\u6d4b\u8bd5"
+        },
+        {
+            "location": "/#welcome-to-mk",
+            "text": "For full documentation visit  mkdocs.org .",
+            "title": "Welcome to Mk"
+        },
+        {
+            "location": "/#_1",
+            "text": "",
+            "title": "\u6807\u9898"
+        },
+        {
+            "location": "/#_2",
+            "text": "",
+            "title": "\u7b2c\u4e09\u7ea7"
+        },
+        {
+            "location": "/#_3",
+            "text": "",
+            "title": "\u7b2c\u56db\u7ea7"
+        },
+        {
+            "location": "/#_4",
+            "text": "",
+            "title": "\u7b2c\u4e94\u7ea7"
+        },
+        {
+            "location": "/#_5",
+            "text": "",
+            "title": "\u7b2c\u516d\u7ea7"
+        },
+        {
+            "location": "/#with-secondary-text",
+            "text": "",
+            "title": "\u5c0f\u6807\u9898 with secondary text"
+        },
+        {
+            "location": "/#the-3rd-level-with-secondary-text",
+            "text": "",
+            "title": "The 3rd level with secondary text"
+        },
+        {
+            "location": "/#the-4th-level-with-secondary-text",
+            "text": "",
+            "title": "The 4th level with secondary text"
+        },
+        {
+            "location": "/#the-5th-level-with-secondary-text",
+            "text": "",
+            "title": "The 5th level with secondary text"
+        },
+        {
+            "location": "/#the-6th-level-with-secondary-text",
+            "text": "",
+            "title": "The 6th level with secondary text"
+        },
+        {
+            "location": "/#_6",
+            "text": "\u6211\u8bb0\u5f97\u81ea\u5df1\u7b2c\u4e00\u6b21\u63a5\u89e6\u56db\u8f74\u98de\u884c\u5668\u662f\u5728\u5927\u4e00\uff0c\u6709\u4e00\u6b21\u6211\u5728 TED \u4e0a\u770b\u4e86\u7531\u745e\u58eb\u82cf\u9ece\u4e16\u8054\u90a6\u7406\u5de5\u5927\u5b66\u7684Raffaello D'Andrea\u6559\u6388\u6240\u505a\u7684\u5173\u4e8e\u56db\u8f74\u98de\u884c\u5668\u7684\u6f14\u8bb2\uff0c\u9898\u76ee\u662f**\"The astounding athletic power of quadcopters\"**\uff0c\u6559\u6388\u8fb9\u7528\u56db\u8f74\u98de\u884c\u5668\u8fdb\u884c\u6f14\u793a\u5e76\u5bf9\u5176\u4e2d\u6240\u7528\u5230\u7684\u6570\u5b66\u7406\u8bba\u8fdb\u884c\u8bb2\u89e3\uff0c\u5bf9\u4e8e\u5f53\u65f6\u4ec0\u4e48\u7406\u8bba\u90fd\u4e0d\u61c2\u7684\u6211\u6765\u8bf4\uff0c\u6700\u4ee4\u6211\u60ca\u8bb6\u7684\u662f\u5728\u6f14\u793a\u73af\u8282\uff0c\u90a3\u4e9b\u56db\u8f74\u98de\u884c\u5668\u80fd\u591f\u5728\u9ad8\u901f\u79fb\u52a8\u7684\u65f6\u5019\u4fdd\u8bc1\u653e\u5728\u5176\u9876\u90e8\u7684\u7ec6\u68cd\u548c\u9152\u676f\u4e0d\u5931\u53bb\u5e73\u8861\uff0c\u53ef\u4ee5\u5728\u6868\u53f6\u53d7\u635f\u7684\u60c5\u51b5\u4e0b\u4f9d\u7136\u53ef\u63a7\uff0c\u53ef\u4ee5\u901a\u8fc7\u534f\u4f5c\u63a5\u4f4f\u7531\u4eba\u6240\u629b\u51fa\u7684\u5c0f\u7403\u5e76\u5c06\u5176\u51fb\u56de\uff0c\u53ef\u4ee5\u5224\u65ad\u4eba\u7684\u624b\u52bf\u6765\u505a\u4e0d\u540c\u7684\u52a8\u4f5c\u7b49\u3002\u5f53\u65f6\u770b\u5b8c\u8fd9\u6bb5\u89c6\u9891\u4e4b\u540e\u6211\u7684\u5185\u5fc3\u96be\u4ee5\u5e73\u9759\uff0c\u8111\u6d77\u91cc\u840c\u751f\u4e86\u81ea\u5236\u56db\u8f74\u98de\u884c\u5668\u7684\u60f3\u6cd5\uff0c\u4f46\u7531\u4e8e\u540e\u6765\u6211\u52a0\u5165\u4e86\u821e\u8e48\u673a\u5668\u4eba\u57fa\u5730\u5e76\u5fd9\u4e8e\u7ec4\u5185\u7684\u5f00\u53d1\u4efb\u52a1\uff0c\u6240\u4ee5\u8fd9\u4e2a\u60f3\u6cd5\u5c31\u6682\u65f6\u88ab\u6401\u7f6e\u4e86\u3002",
+            "title": "\u5f15\u5165"
+        },
+        {
+            "location": "/#_7",
+            "text": "",
+            "title": "\u4ee3\u7801"
+        },
+        {
+            "location": "/#_8",
+            "text": "Morbi eget  test . Vivamus  venenatis porttitor  tortor sit amet\nrutrum. Class aptent taciti sociosqu ad litora torquent per conubia nostra,\nper inceptos himenaeos.  Pellentesque aliquet quam enim , eu volutpat urna\nrutrum a.  Nam vehicula nunc  return   target  mauris, a ultricies libero efficitur\nsed. Sed molestie imperdiet consectetur. Vivamus a pharetra leo. Pellentesque\neget ornare tellus, ut gravida mi. Fusce vel lacinia lacus.  1 import   tensorflow   as   tf    1\n2\n3\n4\n5\n6 \"\"\" Bubble sort \"\"\"  def   bubble_sort ( items ):       for   i   in   range ( len ( items )):           for   j   in   range ( len ( items )   -   1   -   i ):               if   items [ j ]   >   items [ j   +   1 ]: \n                 items [ j ],   items [ j   +   1 ]   =   items [ j   +   1 ],   items [ j ]",
+            "title": "\u884c\u5185\u4ee3\u7801"
+        },
+        {
+            "location": "/#latex",
+            "text": "\\phi \\phi \uff0cLorem ipsum dolor sit amet:  p(x|y) = \\frac{p(y|x)p(x)}{p(y)} p(x|y) = \\frac{p(y|x)p(x)}{p(y)} \n$$\n\\frac{n!}{k!(n-k)!} = \\binom{n}{k}\n$$",
+            "title": "Latex\u516c\u5f0f"
+        },
+        {
+            "location": "/#_9",
+            "text": "inserted text  test  test",
+            "title": "\u6587\u5b57\u6807\u6ce8\u4f18\u5316"
+        },
+        {
+            "location": "/#_10",
+            "text": "Lorem ipsum 1  dolor sit amet, consectetur adipiscing elit. 2",
+            "title": "\u811a\u6ce8"
+        },
+        {
+            "location": "/#_11",
+            "text": "maksyuki",
+            "title": "\u63d2\u5165\u94fe\u63a5\u548c\u56fe\u7247"
+        },
+        {
+            "location": "/#_12",
+            "text": "",
+            "title": "\u5782\u76f4\u7ebf"
+        },
+        {
+            "location": "/#_13",
+            "text": "Sollicitudo / Pellentesi  consectetur  adipiscing  elit  arcu  sed      Vivamus a pharetra  yes  yes  yes  yes  yes    Ornare viverra ex  yes  yes  yes  yes  yes    Mauris a ullamcorper  yes  yes  partial  yes  yes    Nullam urna elit  yes  yes  yes  yes  yes    Malesuada eget finibus  yes  yes  yes  yes  yes    Ullamcorper  yes  yes  yes  yes  yes    Vestibulum sodales  yes  -  yes  -  yes    Pulvinar nisl  yes  yes  yes  -  -    Pharetra aliquet est  yes  yes  yes  yes  yes    Sed suscipit  yes  yes  yes  yes  yes    Orci non pretium  yes  partial  -  -  -",
+            "title": "\u8868\u683c"
+        },
+        {
+            "location": "/#_14",
+            "text": "",
+            "title": "\u5217\u8868"
+        },
+        {
+            "location": "/#_15",
+            "text": "\u6d4b\u8bd5a   \u6d4b\u8bd5a  \u6d4b\u8bd5b  \u6d4b\u8bd5c     \u6d4b\u8bd5a    Nulla et rhoncus turpis. Mauris ultricies elementum leo. Duis efficitur\n  accumsan nibh eu mattis. Vivamus tempus velit eros, porttitor placerat nibh\n  lacinia sed. Aenean in finibus diam.",
+            "title": "\u65e0\u5e8f\u5217\u8868"
+        },
+        {
+            "location": "/#_16",
+            "text": "\u6d4b\u8bd5a    \u6d4b\u8bd5b    \u6d4b\u8bd5a   \u6d4b\u8bd5a  \u6d4b\u8bd5b  \u6d4b\u8bd5c     Morbi eget dapibus felis. Vivamus venenatis porttitor tortor sit amet\n  rutrum. Pellentesque aliquet quam enim, eu volutpat urna rutrum a. Sed\n  aliquet, neque at rutrum mollis, neque nisi tincidunt nibh.",
+            "title": "\u6709\u5e8f\u5217\u8868"
+        },
+        {
+            "location": "/#_17",
+            "text": "Lorem ipsum dolor sit amet  :   Sed sagittis eleifend rutrum. Donec vitae suscipit est. Nullam tempus\n    tellus non sem sollicitudin, quis rutrum leo facilisis. Nulla tempor\n    lobortis orci, at elementum urna sodales vitae. In in vehicula nulla.  1\n2\n3 Duis mollis est eget nibh volutpat, fermentum aliquet dui mollis.\nNam vulputate tincidunt fringilla.\nNullam dignissim ultrices urna non auctor.   Cras arcu libero  :   Aliquam metus eros, pretium sed nulla venenatis, faucibus auctor ex. Proin\n    ut eros sed sapien ullamcorper consequat. Nunc ligula ante, fringilla at\n    aliquam ac, aliquet sed mauris.",
+            "title": "\u5b9a\u4e49\u5217\u8868"
+        },
+        {
+            "location": "/#_18",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit   Nulla lobortis egestas semper   Curabitur elit nibh, euismod et ullamcorper at, iaculis feugiat est   Vestibulum convallis sit amet nisi a tincidunt   In hac habitasse platea dictumst   In scelerisque nibh non dolor mollis congue sed et metus   Sed egestas felis quis elit dapibus, ac aliquet turpis mattis   Praesent sed risus massa     Aenean pretium efficitur erat, donec pharetra, ligula non scelerisque   Nulla vel eros venenatis, imperdiet enim id, faucibus nisi",
+            "title": "\u4efb\u52a1\u5217\u8868"
+        },
+        {
+            "location": "/#_19",
+            "text": "Vestibulum vitae orci quis ante viverra ultricies ut eget turpis. Sed eu\n  lectus dapibus, eleifend nulla varius, lobortis turpis. In ac hendrerit nisl,\n  sit amet laoreet nibh.\n   1\n2\n3\n4\n5\n6\n7\n8\n9 var   _extends   =   function ( target )   { \n   for   ( var   i   =   1 ;   i   <   arguments . length ;   i ++ )   { \n     var   source   =   arguments [ i ]; \n     for   ( var   key   in   source )   { \n       target [ key ]   =   source [ key ]; \n     } \n   }     return   target ;  };     Praesent at  return   target , sodales nibh vel, tempor felis. Fusce\n      vel lacinia lacus. Suspendisse rhoncus nunc non nisi iaculis ultrices.\n      Donec consectetur mauris non neque imperdiet, eget volutpat libero.",
+            "title": "\u5f15\u5165+\u4ee3\u7801\u5757"
+        },
+        {
+            "location": "/#_20",
+            "text": "Note  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod\nnulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor\nmassa, nec semper lorem quam in massa.    Phasellus posuere in sem ut cursus  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod\nnulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor\nmassa, nec semper lorem quam in massa.    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod\nnulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor\nmassa, nec semper lorem quam in massa.   Phasellus posuere in sem ut cursus Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod\nnulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor\nmassa, nec semper lorem quam in massa.  Abstract  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod\nnulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor\nmassa, nec semper lorem quam in massa.    Info  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod\nnulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor\nmassa, nec semper lorem quam in massa.    Tip  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod\nnulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor\nmassa, nec semper lorem quam in massa.    Success  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod\nnulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor\nmassa, nec semper lorem quam in massa.    Question  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod\nnulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor\nmassa, nec semper lorem quam in massa.    Warning  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod\nnulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor\nmassa, nec semper lorem quam in massa.    Failure  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod\nnulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor\nmassa, nec semper lorem quam in massa.    Danger  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod\nnulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor\nmassa, nec semper lorem quam in massa.    Bug  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod\nnulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor\nmassa, nec semper lorem quam in massa.    Example  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod\nnulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor\nmassa, nec semper lorem quam in massa.    Quote  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod\nnulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor\nmassa, nec semper lorem quam in massa.",
+            "title": "\u63d0\u793a\u5757"
+        },
+        {
+            "location": "/#commands",
+            "text": "mkdocs new [dir-name]  - Create a new project.  mkdocs serve  - Start the live-reloading docs server.  mkdocs build  - Build the documentation site.  mkdocs help  - Print this help message.",
+            "title": "Commands"
+        },
+        {
+            "location": "/#project-layout",
+            "text": "1\n2\n3\n4 mkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.",
+            "title": "Project layout"
+        },
+        {
+            "location": "/#project-layout_1",
+            "text": "1\n2\n3\n4 mkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.",
+            "title": "Project layout"
+        },
+        {
+            "location": "/#project-layout_2",
+            "text": "1\n2\n3\n4 mkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.",
+            "title": "Project layout"
+        },
+        {
+            "location": "/#project-layout_3",
+            "text": "1\n2\n3\n4 mkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.",
+            "title": "Project layout"
+        },
+        {
+            "location": "/#project-layout_4",
+            "text": "1\n2\n3\n4 mkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.",
+            "title": "Project layout"
+        },
+        {
+            "location": "/#project-layout_5",
+            "text": "1\n2\n3\n4 mkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.",
+            "title": "Project layout"
+        },
+        {
+            "location": "/#project-layout_6",
+            "text": "1\n2\n3\n4 mkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.       Lorem ipsum dolor sit amet, consectetur adipiscing elit.\u00a0 \u21a9    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod\nnulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor\nmassa, nec semper lorem quam in massa.\u00a0 \u21a9",
+            "title": "Project layout"
+        },
+        {
+            "location": "/1. Breeze Mini\u56db\u8f74\u98de\u884c\u5668/1.1 \u603b\u7eb2/",
+            "text": "1.1 \u603b\u7eb2\n\u00b6\n\n\n\\phi\n\\phi",
+            "title": "1.1 \u603b\u7eb2"
+        },
+        {
+            "location": "/1. Breeze Mini\u56db\u8f74\u98de\u884c\u5668/1.1 \u603b\u7eb2/#11",
+            "text": "\\phi \\phi",
+            "title": "1.1 \u603b\u7eb2"
+        },
+        {
+            "location": "/1. Breeze Mini\u56db\u8f74\u98de\u884c\u5668/1.2 \u5165\u624b\u7ec4\u88c5\u548c\u8c03\u8bd5\u6307\u5bfc/",
+            "text": "1-2-\u5165\u624b\u7ec4\u88c5\u548c\u8c03\u8bd5\u6307\u5bfc\n\u00b6",
+            "title": "1-2-\u5165\u624b\u7ec4\u88c5\u548c\u8c03\u8bd5\u6307\u5bfc"
+        },
+        {
+            "location": "/1. Breeze Mini\u56db\u8f74\u98de\u884c\u5668/1.2 \u5165\u624b\u7ec4\u88c5\u548c\u8c03\u8bd5\u6307\u5bfc/#1-2-",
+            "text": "",
+            "title": "1-2-\u5165\u624b\u7ec4\u88c5\u548c\u8c03\u8bd5\u6307\u5bfc"
+        },
+        {
+            "location": "/1. Breeze Mini\u56db\u8f74\u98de\u884c\u5668/1.3 \u786c\u4ef6\u7535\u8def\u8bbe\u8ba1/",
+            "text": "Breeze Mini\ndescription: \u672c\u7bc7\u6587\u7ae0\u4ecb\u7ecdBreeze Mini\u56db\u8f74\u98de\u884c\u5668\ntoc: true",
+            "title": "1-3-\u786c\u4ef6\u7535\u8def\u8bbe\u8ba1"
+        },
+        {
+            "location": "/1. Breeze Mini\u56db\u8f74\u98de\u884c\u5668/1.4 \u673a\u68b0\u7ed3\u6784\u8bbe\u8ba1/",
+            "text": "Breeze Mini\ndescription: \u672c\u7bc7\u6587\u7ae0\u4ecb\u7ecdBreeze Mini\u56db\u8f74\u98de\u884c\u5668\ntoc: true",
+            "title": "1-4-\u673a\u68b0\u7ed3\u6784\u8bbe\u8ba1"
+        },
+        {
+            "location": "/1. Breeze Mini\u56db\u8f74\u98de\u884c\u5668/2.1 STM32\u5f00\u53d1\u73af\u5883\u642d\u5efa(Keil)/",
+            "text": "Breeze Mini\ndescription: \u672c\u7bc7\u6587\u7ae0\u4ecb\u7ecdBreeze Mini\u56db\u8f74\u98de\u884c\u5668\ntoc: true",
+            "title": "2.1. STM32\u5f00\u53d1\u73af\u5883\u642d\u5efa(Keil)"
+        },
+        {
+            "location": "/1. Breeze Mini\u56db\u8f74\u98de\u884c\u5668/2.2 STM32\u5f00\u53d1\u73af\u5883\u642d\u5efa(ARM-GCC)/",
+            "text": "Breeze Mini\ndescription: \u672c\u7bc7\u6587\u7ae0\u4ecb\u7ecdBreeze Mini\u56db\u8f74\u98de\u884c\u5668\ntoc: true",
+            "title": "2.2. STM32\u5f00\u53d1\u73af\u5883\u642d\u5efa(ARM-GCC)"
+        },
+        {
+            "location": "/1. Breeze Mini\u56db\u8f74\u98de\u884c\u5668/2.3 STM32\u5f00\u53d1\u73af\u5883\u642d\u5efa-Makefile\u8be6\u89e3(ARM-GCC)/",
+            "text": "Breeze Mini\ndescription: \u672c\u7bc7\u6587\u7ae0\u4ecb\u7ecdBreeze Mini\u56db\u8f74\u98de\u884c\u5668\ntoc: true",
+            "title": "2.3. STM32\u5f00\u53d1\u73af\u5883\u642d\u5efa-Makefile\u8be6\u89e3(ARM-GCC)"
+        },
+        {
+            "location": "/1. Breeze Mini\u56db\u8f74\u98de\u884c\u5668/2.4 STM32\u5f00\u53d1\u73af\u5883\u642d\u5efa-\u94fe\u63a5\u811a\u672c\u8be6\u89e3(ARM-GCC)/",
+            "text": "Breeze Mini\ndescription: \u672c\u7bc7\u6587\u7ae0\u4ecb\u7ecdBreeze Mini\u56db\u8f74\u98de\u884c\u5668\ntoc: true",
+            "title": "STM32\u5f00\u53d1\u73af\u5883\u642d\u5efa-\u94fe\u63a5\u811a\u672c\u8be6\u89e3(ARM-GCC)"
+        },
+        {
+            "location": "/1. Breeze Mini\u56db\u8f74\u98de\u884c\u5668/2.5 STM32\u5f00\u53d1\u73af\u5883\u642d\u5efa-\u542f\u52a8\u6587\u4ef6\u8be6\u89e3(ARM-GCC)/",
+            "text": "Breeze Mini\ndescription: \u672c\u7bc7\u6587\u7ae0\u4ecb\u7ecdBreeze Mini\u56db\u8f74\u98de\u884c\u5668\ntoc: true",
+            "title": "2.5. STM32\u5f00\u53d1\u73af\u5883\u642d\u5efa-\u542f\u52a8\u6587\u4ef6\u8be6\u89e3(ARM-GCC)"
+        },
+        {
+            "location": "/1. Breeze Mini\u56db\u8f74\u98de\u884c\u5668/3.1 \u4ee3\u7801\u7f16\u5199\u89c4\u8303/",
+            "text": "Breeze Mini\ndescription: \u672c\u7bc7\u6587\u7ae0\u4ecb\u7ecdBreeze Mini\u56db\u8f74\u98de\u884c\u5668\ntoc: true",
+            "title": "3-1-\u4ee3\u7801\u7f16\u5199\u89c4\u8303"
+        },
+        {
+            "location": "/1. Breeze Mini\u56db\u8f74\u98de\u884c\u5668/3.2 \u98de\u63a7\u7b97\u6cd5\u603b\u89c8/",
+            "text": "Breeze Mini\ndescription: \u672c\u7bc7\u6587\u7ae0\u4ecb\u7ecdBreeze Mini\u56db\u8f74\u98de\u884c\u5668\ntoc: true",
+            "title": "3-2-\u98de\u63a7\u7b97\u6cd5\u603b\u89c8"
+        },
+        {
+            "location": "/1. Breeze Mini\u56db\u8f74\u98de\u884c\u5668/4.1 STM32\u7cfb\u7edf\u5f00\u53d1- \u542f\u52a8\u6587\u4ef6\u4e0eCMSIS/",
+            "text": "Breeze Mini\ndescription: \u672c\u7bc7\u6587\u7ae0\u4ecb\u7ecdBreeze Mini\u56db\u8f74\u98de\u884c\u5668\ntoc: true",
+            "title": "4-1-STM32\u7cfb\u7edf\u5f00\u53d1- \u542f\u52a8\u6587\u4ef6\u4e0eCMSIS"
+        },
+        {
+            "location": "/1. Breeze Mini\u56db\u8f74\u98de\u884c\u5668/4.2 STM32\u7cfb\u7edf\u5f00\u53d1-\u56fa\u4ef6\u5e93\u4e0e\u56fa\u4ef6\u5e93\u7f16\u7a0b/",
+            "text": "Breeze Mini\ndescription: \u672c\u7bc7\u6587\u7ae0\u4ecb\u7ecdBreeze Mini\u56db\u8f74\u98de\u884c\u5668\ntoc: true",
+            "title": "4-2-STM32\u7cfb\u7edf\u5f00\u53d1-\u56fa\u4ef6\u5e93\u4e0e\u56fa\u4ef6\u5e93\u7f16\u7a0b"
+        },
+        {
+            "location": "/2. Breeze Air\u56db\u8f74\u98de\u884c\u5668/1.1 \u603b\u7eb2/",
+            "text": "1.1 \u603b\u7eb2\n\u00b6\n\n\n\\phi\n\\phi",
+            "title": "1.1 \u603b\u7eb2"
+        },
+        {
+            "location": "/2. Breeze Air\u56db\u8f74\u98de\u884c\u5668/1.1 \u603b\u7eb2/#11",
+            "text": "\\phi \\phi",
+            "title": "1.1 \u603b\u7eb2"
+        },
+        {
+            "location": "/3. Breeze Pro\u56db\u8f74\u98de\u884c\u5668/1.1 \u603b\u7eb2/",
+            "text": "1.1 \u603b\u7eb2\n\u00b6\n\n\n\\phi\n\\phi",
+            "title": "1.1 \u603b\u7eb2"
+        },
+        {
+            "location": "/3. Breeze Pro\u56db\u8f74\u98de\u884c\u5668/1.1 \u603b\u7eb2/#11",
+            "text": "\\phi \\phi",
+            "title": "1.1 \u603b\u7eb2"
+        },
+        {
+            "location": "/\u5173\u4e8e/about/",
+            "text": "hello world",
+            "title": "About"
+        }
+    ]
+}

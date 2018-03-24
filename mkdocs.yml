@@ -1,0 +1,72 @@
+# Project information
+site_name: 'Home | Team MicroDynamics'
+site_description: 'A Material Design theme for MkDocs'
+site_author: 'maksyuki'
+site_url: 'https://microdynamics.github.io'
+
+# pages:
+#     - Home: index.md
+#     - About: about.md
+
+# Repository
+repo_name: 'Team MicroDynamics'
+repo_url: 'https://github.com/microdynamics/microdynamics_website_development'
+
+# Github
+remote_branch: 'master'
+remote_name: origin
+
+# Copyright
+copyright: 'Copyright &copy; 2016 - 2018 Team MicroDynamics'
+
+theme:
+    name: 'material'
+    # name: null
+    # custom_dir: 'mkdocs-material/material'
+    language: 'zh'
+    feature:
+        tabs: true
+    palette:
+        primary: 'light blue'
+        accent:  'light blue'
+
+extra:
+    social:
+        - type: 'github'
+          link: 'https://github.com/microdynamics'
+        # - type: 'twitter'
+        #   link: 'https://twitter.com/squidfunk'
+        # - type: 'linkedin'
+        #   link: 'https://linkedin.com/in/squidfunk'
+
+extra_javascript:
+    - 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-MML-AM_CHTML'
+
+# Extensions
+markdown_extensions:
+    - meta
+    - admonition
+    - footnotes
+    - codehilite:
+          linenums: true
+          guess_lang: false
+    - toc:
+          permalink: true
+
+    #PyMdown extension bundle
+    - pymdownx.arithmatex 
+    - pymdownx.betterem:
+          smart_enable: all
+    - pymdownx.caret
+    - pymdownx.critic
+    - pymdownx.details
+    - pymdownx.emoji:
+          emoji_generator: !!python/name:pymdownx.emoji.to_svg
+    - pymdownx.inlinehilite
+    - pymdownx.magiclink
+    - pymdownx.mark
+    - pymdownx.smartsymbols
+    - pymdownx.superfences
+    - pymdownx.tasklist:
+          custom_checkbox: true
+    - pymdownx.tilde

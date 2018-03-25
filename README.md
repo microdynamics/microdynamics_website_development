@@ -4,24 +4,21 @@ This is the development codes of Microdynamics website by using hexo.
 
 Now Team Wiki is used in system environment:
 
-node: v9.8.0<br>
-hexo: 3.6.0<br>
-hexo-cli: 1.1.0<br>
-os: Windows_NT 6.2.9200 win32 x64<br>
-http_parser: 2.7.0<br>
-node: 9.8.0<br>
-v8: 6.2.414.46-node.21<br>
-uv: 1.19.2<br>
-zlib: 1.2.11<br>
-ares: 1.13.0<br>
-modules: 59<br>
-nghttp2: 1.29.0<br>
-napi: 2<br>
-openssl: 1.0.2n<br>
-icu: 60.2<br>
-unicode: 10.0<br>
-cldr: 32.0.1<br>
-tz: 2017c<br>
+This develop environment now:
+
+System: Window 8 enterprise
+
+python: 3.6.4(Lastest version)
+
+pip: 9.0.1(install integration with python)
+
+You need install the **python** first, you can go to the [python offical website](https://www.python.org/downloads/) to the download the Lastest version installer depend on your system.
+
+When install the python, you have better to check the a list **Add Python 3.x.x to PATH** and select installing the python package machine**pip** meanwhile.
+
+In china, you might not be able to use the **pip** normally, you can 
 
 
-You can clone this repo and enter the `npm install` to config the environment.<br>
+Then, use **pip install mkdocs** and ""pip install mkdocs-material"" to install dependence package.
+
+Last, you can clone this package and **cd** in this repo and enter **mkdocs serve** to start a local serive. you can visit the demo visit in **http://127.0.0.1:8000**

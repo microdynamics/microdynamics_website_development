@@ -16,6 +16,7 @@ When installing the python, you have better to check the list **Add Python 3.x.x
 
 In china, you might not be able to use the **pip** normally, you can go to your user content(for example "C:/Users/xx/"), **mkdir** a folder name **pip**, and **cd** into **pip** folder to create a flie named **pip.ini** and add 
 > [global]
+
 > index-url = https://pypi.tuna.tsinghua.edu.cn/simple
 
 in it.

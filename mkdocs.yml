@@ -39,9 +39,12 @@ extra:
         # - type: 'linkedin'
         #   link: 'https://linkedin.com/in/squidfunk'
 
+extra_css:
+    # - 'https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.css'
 extra_javascript:
     - 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-MML-AM_CHTML'
-
+    # - 'http://code.jquery.com/jquery-3.3.1.min.js'
+    # - 'https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.js'
 # Extensions
 markdown_extensions:
     - meta

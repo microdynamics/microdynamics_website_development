@@ -44,6 +44,18 @@ MicroDynamics团队目前从四轴飞行器平台开始，从底层到顶层搭�
 
   MicroDynamics Quadcopter项目是一个面向微型四轴飞行器开发和研究的开源软硬件系统。它以硬件电路和嵌入式框架为核心，丰富的软件算法为支撑，可以完成不同的实验任务。除此之外，在硬件上它还预留有一些接口，可以与第三方定制模块进行连接，便于飞行器功能的扩展。未来在软件上它还将支持目前流行的ROS，使得更多的算法可以被应用其中。
 
+- **Breeze四轴飞行器系列**
+
+  Breeze系列四轴飞行器是MicroDynamics Quadcopter项目推出的系列化四轴飞行器，一共有三种系列，主要是面向具有不同需求的开发者和爱好者。这三个系列分别为Breeze Mini、Breeze Air和Breeze Pro。
+
+  - Breeze Mini
+
+    Breeze Mini是低成本、开源的微型四轴飞行器，其硬件设计最开始基于[Openedv](http://www.openedv.com/)上 **tuyafei** 的开源项目[myCrazyflie](http://www.openedv.com/posts/list/40686.htm)。但是在经过我们对原先四轴飞行器打板测试后，在上自行设计了电机座和电池座，将原先的主控STM32F103T6U6换成STM32F103TBU6，实现了原项目没有实现的控制算法和nRF51822蓝牙驱动，并将所有的资料进行开源。这样Breeze Mini也可以看作是对myCrazyfile项目的一次继承，发展。Breeze Mini主要面向于初学者和
+
+  - Breeze Air
+
+  - Breeze Pro
+
 - **理念**
 
   我们团队的理念是：**开源、探索、创新**。

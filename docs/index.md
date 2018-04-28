@@ -16,18 +16,17 @@ Breeze系列四轴飞行器是 **MicroDynamics Quadcopter** 项目推出的系�
 
 * **Breeze Air**
     
-    **Breeze Air** 是一款具备空间自主定位和导航功能的微型四轴飞行器，其主控具有浮点数运算等DSP功能，支持复杂，大运算量的飞控算法设置，其还支持GPS/BDS定位，搭载的两个CMOS摄像头可分别用于光流定位和视觉环境感知，其还支持GPRS/WIFI/BLE/USART等多种通信方式。
+    **Breeze Air** 是一款具备空间自主定位功能的微型四轴飞行器，其主控具有浮点数运算等DSP功能，支持复杂，大运算量的飞控算法设计，其还支持GPS/BDS定位，搭载的两个CMOS摄像头可分别用于光流定位和简单视觉环境感知，其还支持GPRS/WIFI/BLE/USART等多种通信方式。
 
 * **Breeze Pro**
 
-    **Breeze Pro** 是一款具有实时图像处理功能的微型四轴飞行器。其除了具有 **Breeze Air** 所具有的全部功能外，还能室内的完全自主导航，是Breeze系列产品中功能最强大的一款，其主要面向于实验室进行多目标跟踪、视觉SLAM、自主视觉导航、计算成像、机器人未知环境探测、视觉感知、群体智能的研究。
+    **Breeze Pro** 是一款具有实时图像处理功能的微型四轴飞行器。其除了具有 **Breeze Air** 所具有的全部功能外，还能实现室内的完全自主导航，是Breeze系列产品中功能最强大的一款，其主要面向于实验室进行多目标跟踪、视觉SLAM、自主视觉导航、计算成像、机器人未知环境探测、视觉感知、群体智能等的研究。
 
 ### Breeze系列扩展模块
 
-
 * **breezeduino**
 
-    **breezeduino** 是一款基于Arduino进行二次开发的开源开发板，可用于简单机器人控制，实现DIY
+    **breezeduino** 是一款基于Arduino进行二次开发的开源开发板，可用于简单机器人控制和DIY。
 
 * **breezeESC**
 
@@ -69,7 +68,7 @@ Breeze系列四轴飞行器是 **MicroDynamics Quadcopter** 项目推出的系�
 
     ![crazyflie](https://microdynamics-1256406063.cos.ap-shanghai.myqcloud.com/crazyflie/crazyflie.jpg)
 
-总之，这次在看过Crazyflie微型四轴项目之后，我脑海中有关设计四轴飞行器的想法又被重新唤醒了，于是我和[maksyuki](https://github.com/maksyuki)创建了[MicroDynamics](https://github.com/microdynamics)团队，而Breeze系列微型四轴飞行器项目也就因此顺利地诞生了。
+总之，这次在看过Crazyflie微型四轴项目之后，我脑海中有关设计四轴飞行器的想法又被重新唤醒了，于是我和[maksyuki](https://github.com/maksyuki)组建了[MicroDynamics](https://github.com/microdynamics)团队，而Breeze系列微型四轴飞行器项目也就因此顺利地诞生了。
 
 在具体进行四轴飞行器开发过程中，我们经过多次讨论最终决定设计3款具有不同功能的四轴飞行器，做出这个决定是考虑到Breeze系列四轴飞行器 **并不是消费级产品，而是面向开发者和实验室的一款偏小众，可二次开发的产品**，为了能够满足开发者的不同需求，需要做到功能分层设计。
 
